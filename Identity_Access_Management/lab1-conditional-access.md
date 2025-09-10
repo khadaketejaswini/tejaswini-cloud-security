@@ -36,6 +36,7 @@ Enforce Multi-Factor Authentication (MFA) for risky sign-ins to strengthen ident
 - Improved compliance with zero trust principles.
 
 ## 📸 Screenshot
+<img width="846" height="303" alt="image" src="https://github.com/user-attachments/assets/88e99ee2-8d1e-4fd7-8c8d-08f6569d6efb" />
 
 
 ---
