@@ -126,9 +126,7 @@ New-MgGroup -DisplayName "dyn-sales" -MailEnabled:$false -SecurityEnabled:$true 
 Get-AzureADMSConditionalAccessPolicy | Select DisplayName, Conditions
 ```
 
-```
 
----
 
 ## 9. Troubleshooting tips
 - If dynamic membership isn't updating, check attribute synchronization and licensing.
@@ -162,4 +160,4 @@ Get-AzureADMSConditionalAccessPolicy | Select DisplayName, Conditions
 
 *End of users & groups notes — good luck on AZ-500 studying!*
 
-```
+
