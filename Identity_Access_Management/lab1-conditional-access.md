@@ -66,6 +66,7 @@ Plan to assign Security Reader role to gain reporting visibility. Meanwhile, ver
 ## 📸 Screenshot
 <img width="846" height="303" alt="image" src="https://github.com/user-attachments/assets/88e99ee2-8d1e-4fd7-8c8d-08f6569d6efb" />
 
+<img width="474" height="623" alt="image" src="https://github.com/user-attachments/assets/2b7fae45-caf2-4a7b-8f47-8f4670e6fc9b" />
 
 ---
 
