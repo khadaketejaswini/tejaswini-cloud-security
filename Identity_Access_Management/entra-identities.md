@@ -115,5 +115,6 @@ Benefits:
 * [Microsoft Learn: Manage Microsoft Entra identities](https://learn.microsoft.com/en-us/training/modules/manage-identities-entra-id/)
 * [AZ-500 Official Learning Path](https://learn.microsoft.com/en-us/certifications/exams/az-500/)
 * [LinkedIn Learning – Microsoft Press Course](https://www.linkedin.com/learning/microsoft-azure-security-technology-az-500-cert-prep-by-microsoft-press/)
+<img width="1024" height="1536" alt="entra_identities" src="https://github.com/user-attachments/assets/bcff81a9-a03c-4b70-8fcf-901262cb2974" />
 
 
